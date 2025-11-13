@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "text-generator": {
+      "command": "python3",
+      "args": ["/ruta/absoluta/a/mcp_server.py"],
+      "env": {},
+      "description": "Servidor MCP para generación de texto"
+    }
+  }
+}
